@@ -1,0 +1,55 @@
+Epoch 1/50, Loss: 0.6942
+Epoch 2/50, Loss: 0.6998
+Epoch 3/50, Loss: 0.6993
+Epoch 4/50, Loss: 0.6989
+Epoch 5/50, Loss: 0.6985
+Epoch 6/50, Loss: 0.6927
+Epoch 7/50, Loss: 0.6982
+Epoch 8/50, Loss: 0.6972
+Epoch 9/50, Loss: 0.6925
+Epoch 10/50, Loss: 0.6961
+Epoch 11/50, Loss: 0.6919
+Epoch 12/50, Loss: 0.6911
+Epoch 13/50, Loss: 0.6950
+Epoch 14/50, Loss: 0.6950
+Epoch 15/50, Loss: 0.6911
+Epoch 16/50, Loss: 0.6939
+Epoch 17/50, Loss: 0.6939
+Epoch 18/50, Loss: 0.6930
+Epoch 19/50, Loss: 0.6925
+Epoch 20/50, Loss: 0.6891
+Epoch 21/50, Loss: 0.6923
+Epoch 22/50, Loss: 0.6919
+Epoch 23/50, Loss: 0.6883
+Epoch 24/50, Loss: 0.6899
+Epoch 25/50, Loss: 0.6887
+Epoch 26/50, Loss: 0.6896
+Epoch 27/50, Loss: 0.6882
+Epoch 28/50, Loss: 0.6880
+Epoch 29/50, Loss: 0.6866
+Epoch 30/50, Loss: 0.6863
+Epoch 31/50, Loss: 0.6867
+Epoch 32/50, Loss: 0.6883
+Epoch 33/50, Loss: 0.6880
+Epoch 34/50, Loss: 0.6852
+Epoch 35/50, Loss: 0.6862
+Epoch 36/50, Loss: 0.6843
+Epoch 37/50, Loss: 0.6838
+Epoch 38/50, Loss: 0.6862
+Epoch 39/50, Loss: 0.6857
+Epoch 40/50, Loss: 0.6853
+Epoch 41/50, Loss: 0.6832
+Epoch 42/50, Loss: 0.6845
+Epoch 43/50, Loss: 0.6828
+Epoch 44/50, Loss: 0.6839
+Epoch 45/50, Loss: 0.6820
+Epoch 46/50, Loss: 0.6817
+Epoch 47/50, Loss: 0.6790
+Epoch 48/50, Loss: 0.6824
+Epoch 49/50, Loss: 0.6819
+Epoch 50/50, Loss: 0.6807
+
+Testing Model on Sample Inputs:
+Sentence: 'This was an amazing movie!' -> Sentiment Score: 0.4996
+Sentence: 'I hated every moment of it.' -> Sentiment Score: 0.4970
+Sentence: 'It was an okay experience, not great but not terrible.' -> Sentiment Score: 0.5068
